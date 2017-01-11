@@ -1,7 +1,9 @@
 public class firstApp {
   public static void main(String[] args){
-    System.out.println("This is a test string");
-    System.out.println("Test string 2");
+    int number = 5;
+    String word = "Mike";
+    System.out.println("This is " + word);
+    System.out.println(number);
   }
 }
 ///to compile "java firstApp.java"/////
