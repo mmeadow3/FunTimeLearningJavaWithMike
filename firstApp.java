@@ -4,3 +4,5 @@ public class firstApp {
     System.out.println("Test string 2");
   }
 }
+///to compile "java firstApp.java"/////
+//////then run "java firstApp.java"/////////
