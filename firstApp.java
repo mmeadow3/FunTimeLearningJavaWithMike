@@ -6,5 +6,6 @@ public class firstApp {
     System.out.println(number);
   }
 }
+
 ///to compile "java firstApp.java"/////
 //////then run "java firstApp.java"/////////
