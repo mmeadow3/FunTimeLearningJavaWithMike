@@ -11,7 +11,7 @@ public class $javaCalc {
 		num1 = userInput.nextDouble();
 		System.out.println("Enter another number");
 		num2 = userInput.nextDouble();
-		System.out.println("The sume of your numbers is " + (num1 + num2));
+		System.out.println("The sum of your numbers is " + (num1 + num2));
 	}
 }
 
@@ -20,4 +20,4 @@ public class $javaCalc {
 //7.7
 //Enter another number
 //8.8
-//The sume of your numbers is 16.5
+//The sum of your numbers is 16.5
