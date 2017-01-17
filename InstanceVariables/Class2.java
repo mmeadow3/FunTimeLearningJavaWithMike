@@ -1,5 +1,6 @@
 public class Class2 {
-	////Private varibale is only scoped to this method///////
+	////Private variable is only scoped to this method///////
+	/////this is an instance variable
 	private String firstName;
 	public void setName(String name){
 		firstName = name;
