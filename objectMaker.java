@@ -1,6 +1,7 @@
 
 ////////define the Object///////
 
+
 class Dog {
   int size;
   String breed;
@@ -20,3 +21,7 @@ class DogTest{
     d.bark();
   }
 }
+
+
+
+/////The use of main(){ } ----- to test and launch java applications
